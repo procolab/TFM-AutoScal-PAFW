@@ -8,3 +8,5 @@ Palo Alto Firewall: Palo Alto Networks is a leading cybersecurity company that s
 AWS: Amazon Web Services, is a comprehensive cloud computing platform offered by Amazon.com. It provides a wide range of services that enable individuals and organizations to store and process data, run applications, and deploy infrastructure, all without the need to manage physical hardware.
 
 Auto-Scaling: Auto-scaling, also known as automatic scaling, is a cloud computing technique that dynamically allocates computational resources based on system demand. It ensures that applications have the resources they need to maintain consistent availability and performance, while also promoting efficient resource utilization and minimizing costs.
+
+Refrence: https://github.com/PaloAltoNetworks/terraform-aws-swfw-modules/tree/main/examples/combined_design_autoscale
